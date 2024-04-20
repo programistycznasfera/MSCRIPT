@@ -5,3 +5,5 @@ from MSCRIPT import addnumbers
 from MSCRIPT import delay
 from MSCRIPT import numberspin
 from MSCRIPT import help
+# OR
+from MSCRIPT import *
